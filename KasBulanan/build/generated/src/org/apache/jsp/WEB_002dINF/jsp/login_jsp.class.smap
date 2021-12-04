@@ -1,0 +1,16 @@
+SMAP
+login_jsp.java
+JSP
+*S JSP
+*F
++ 0 login.jsp
+WEB-INF/jsp/login.jsp
++ 1 include.jsp
+WEB-INF/jsp/include.jsp
+*L
+5,2:47
+5#1,4:49
+7#0,23:52
+30:75,3
+31,5:78
+*E
